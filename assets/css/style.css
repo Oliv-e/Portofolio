@@ -12,7 +12,7 @@ a {
 body {
     display: flex;
     flex-direction: column;
-    background: url(/img/background.jpg) no-repeat fixed;
+    background: url(https://r4.wallpaperflare.com/wallpaper/282/308/59/abstract-vector-red-purple-wallpaper-e930688dc1dafddbd617786ff06196ed.jpg) no-repeat fixed;
     background-size: cover;
 }
 #wrapper {
